@@ -31,7 +31,6 @@ namespace Is_Prime_Method
                 }
             }
             return true;
-
         }
     }
 }
